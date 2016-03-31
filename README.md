@@ -14,4 +14,3 @@
 
 #Technologies
 1. Eclipse (Java)
-2. QuantumDB
