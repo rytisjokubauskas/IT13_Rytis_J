@@ -2,7 +2,7 @@
 
 #Sistemos dokumentacija
 
-*Android aplikacija nėra platinama Google Store todėl norint ją išbandyti reikės leisti nežinomų šaltinių diegimą į savo Android įrenginį (Android 3.0 arba naujesnės versijos). Norint paleisti žaidimą taip pat galima naudoti emuliatorių http://www.bluestacks.com/ .
+*Android aplikacija nėra platinama Google Store todėl norint ją išbandyti reikės leisti nežinomų šaltinių diegimą į savo Android įrenginį (Android 3.0 arba naujesnės versijos). Norint paleisti žaidimą taip pat galima naudoti emuliatorių http://www.bluestacks.com/
 
 Įdiegus žaidimą, jame užsiregistravus ir prisijungus būsite nukeltas į savo naujai sukurtą miestą. Mieste galima kurti pastatus, kurie per laiką gamina resursus ir tuos pastatus yra galimybė tobulinti. Tarp šių pastatų yra kareivinės, kur galima išleisti savo resursus samdant armiją. Pasamdyta armija yra matoma žemėlapyje, virš savo miesto. Ji gali judėti ir užimti kitus miestus (užvedant armiją ant kito miesto hex langelio). Žemėlapis susidaro iš X ir Y koordinačių ir kekvienas hex langelis turi savo skirtingą koordinatę. Kovos tarp dviejų armijų vyksta labai paprastai, kadangi tėra vienas armijos tipas - didesnė armija visada laimi, o mūšio pasėkmės visada skaičiuojamos matematine formule (Išlikusios armijos skaičius = Prieš tai buvusios armijos skaičius - priešų armijos skaičius). Norint nugalėti priešą užtenka laikyti savo armiją virš jo miesto.
 
