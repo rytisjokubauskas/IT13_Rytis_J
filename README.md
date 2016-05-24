@@ -31,5 +31,6 @@ Nustatyčiau daugiau kaip vieną žaidėjo samdomos armijos (karių) tipą, suku
 3. Database Control 
 
 #Copyright
-*Hex Models - HexGrid template by Daniel Carrier
-*DB network template by Unity Solution Studios
+Hex Models - HexGrid template by Daniel Carrier
+
+DB network template by Unity Solution Studios
