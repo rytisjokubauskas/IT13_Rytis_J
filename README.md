@@ -33,4 +33,6 @@ Nustatyčiau daugiau kaip vieną žaidėjo samdomos armijos (karių) tipą, suku
 #Copyright
 Hex Models - HexGrid template by Daniel Carrier
 
+Icons - Ikariam MMO by Gameforge
+
 DB network template by Unity Solution Studios
