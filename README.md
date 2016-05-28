@@ -2,16 +2,18 @@
 
 #Sistemos dokumentacija
 
-*Android aplikacija nėra platinama Google Store todėl norint ją išbandyti reikės leisti nežinomų šaltinių diegimą į savo Android įrenginį (Android 3.0 arba naujesnės versijos). Norint paleisti žaidimą taip pat galima naudoti emuliatorių http://www.bluestacks.com/
+*Android aplikacija nėra platinama Google Store todėl norint ją išbandyti reikės leisti nežinomų šaltinių diegimą į savo Android įrenginį (Android 3.0 arba naujesnės versijos).
 
-Įdiegus žaidimą, jame užsiregistravus ir prisijungus būsite nukeltas į savo naujai sukurtą miestą. Mieste galima kurti pastatus, kurie per laiką gamina resursus ir tuos pastatus yra galimybė tobulinti. Tarp šių pastatų yra kareivinės, kur galima išleisti savo resursus samdant armiją. Pasamdyta armija yra matoma žemėlapyje, virš savo miesto. Ji gali judėti ir užimti kitus miestus (užvedant armiją ant kito miesto hex langelio). Žemėlapis susidaro iš X ir Y koordinačių ir kekvienas hex langelis turi savo skirtingą koordinatę. Kovos tarp dviejų armijų vyksta labai paprastai, kadangi tėra vienas armijos tipas - didesnė armija visada laimi, o mūšio pasėkmės visada skaičiuojamos matematine formule (Išlikusios armijos skaičius = Prieš tai buvusios armijos skaičius - priešų armijos skaičius). Norint nugalėti priešą užtenka laikyti savo armiją virš jo miesto.
+*Žaidimą galima testuoti ir Windows aplinkoje.
+
+Įdiegus žaidimą, jame užsiregistravus ir prisijungus būsite nukeltas į savo naujai sukurtą miestą. Mieste galima kurti pastatus, kurie per laiką gamina resursus ir tuos pastatus yra galimybė tobulinti. Tarp šių pastatų yra kareivinės, kur galima išleisti savo resursus samdant armiją. Pasamdyta armija yra matoma žemėlapyje, virš savo miesto. Ji gali judėti ir užimti kitus miestus (užvedant armiją ant kito miesto hex langelio). Žemėlapis susidaro iš X ir Y koordinačių ir kekvienas hex langelis turi savo skirtingą koordinatę. Kovos tarp dviejų armijų vyksta labai paprastai, kiekviena armija turi savo gyvybių ir atakos skaičių, o veiksmas vyksta ėjimais. Norint nugalėti priešą užtenka laikyti savo armiją virš jo miesto nugalėjus priešo kariuomėnę.
 
 #Kas buvo realizuota ir galimos sistemos tobulinimo galimybės?
-Realizuota - vartotojo prisijungimas ir registracija, žaidėjui priklausančio miesto kūrimas ir tobulinimas, kovos mechanika.
-Tobulinimo galimybės - kompiuterio valdomų priešų tobulinimas, žaidimo dizaino tobulinimas, palaikymas dideliui kiekiui žaidėjų vienu metu, daugiau žaidimo mechanikų (aliansai tarp žaidėjų, gildijos), daugiau žaidimo rėžimų (pvz. užimti tam tikrą miestą ir jį laikyti ~savaitei norint laimėti), daugiau tipų resursų ir galimybė į žaidimą pristatyti "microtransactions" (galimybė už realius pinigus nusipirkti virtualius resursus).
+Realizuota - vartotojo prisijungimas ir registracija, kovos prieš kitus žaidėjus ir kompiuterį mechanika.
+Tobulinimo galimybės - kompiuterio valdomų priešų tobulinimas, žaidimo dizaino tobulinimas, palaikymas dideliui kiekiui žaidėjų vienu metu, daugiau žaidimo mechanikų (aliansai tarp žaidėjų, gildijos), miestų valdymas ir kūrimas, daugiau žaidimo rėžimų (pvz. užimti tam tikrą miestą ir jį laikyti ~savaitei norint laimėti), daugiau tipų resursų ir galimybė į žaidimą pristatyti "microtransactions" (galimybė už realius pinigus nusipirkti virtualius resursus).
 
 #Ką būtumėte darą kitaip, jei galetumėte daryti sistemą iš naujo. Kodėl?
-Nustatyčiau daugiau kaip vieną žaidėjo samdomos armijos (karių) tipą, sukurčiau prieinamumą prie žaidimo ne tik per Android, bet ir per Windows sistemą.
+Nustatyčiau daugiau kaip vieną žaidėjo samdomos armijos (karių) tipą.
 
 #High Level User Stories
 1. As a player I can register via an unused nickname and a password
