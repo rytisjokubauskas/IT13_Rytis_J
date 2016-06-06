@@ -1,3 +1,5 @@
+#https://mega.nz/#!UR4yHZRD!jroqGBecQCf7q4gwCjNCz7S5e7eXL9mm-OkG_a5GPec
+
 #KGameProject - a strategy online game for Android
 
 #Sistemos dokumentacija
